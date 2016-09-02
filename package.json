@@ -1,0 +1,25 @@
+{
+  "name": "noobish",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siisco/noobish.git"
+  },
+  "keywords": [
+    "noob"
+  ],
+  "author": "Francisco Lundin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siisco/noobish/issues"
+  },
+  "homepage": "https://github.com/Siisco/noobish#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
